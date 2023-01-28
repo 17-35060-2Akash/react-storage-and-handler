@@ -1,0 +1,8 @@
+.product {
+    border: 2px solid sandybrown;
+    background-color: bisque;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 2vw;
+}
